@@ -1,3 +1,11 @@
 is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = 
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = ES
-build_property.ProjectDir = C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\ES\
+build_property.ProjectDir = C:\Projects\programms\Dino_guesser\ES\ES\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

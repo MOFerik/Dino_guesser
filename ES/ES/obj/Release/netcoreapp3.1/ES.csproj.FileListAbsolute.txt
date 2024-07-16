@@ -15,3 +15,9 @@ C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\ES\bin\Release\ne
 C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\ES\obj\Release\netcoreapp3.1\ES.csproj.AssemblyReference.cache
 C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\ES\obj\Release\netcoreapp3.1\DinoGuesser.dll
 C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\ES\obj\Release\netcoreapp3.1\DinoGuesser.pdb
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\ES.csproj.AssemblyReference.cache
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\ES.Form1.resources
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\ES.Properties.Resources.resources
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\ES.csproj.GenerateResource.cache
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\DinoGuesser.dll
+C:\Projects\programms\Dino_guesser\ES\ES\obj\Release\netcoreapp3.1\DinoGuesser.pdb

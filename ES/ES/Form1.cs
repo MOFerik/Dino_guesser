@@ -28,17 +28,17 @@ namespace ES
         {
 
             String[] ss = new String[256];   // Это строковый массив, куда скопируются строки тектового файл
-            String path = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\rebra.txt";   // Это полный адрес текстового файла savestr.txt
+            String path = @"ES\rebra.txt";   // Это полный адрес текстового файла savestr.txt
             StreamReader sr = new StreamReader(path);
             ss = File.ReadAllLines(path);
 
             String[] ss1 = new String[256];
-            String path1 = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\rebra1.txt";
+            String path1 = @"ES\rebra1.txt";
             StreamReader sr1 = new StreamReader(path1);
             ss1 = File.ReadAllLines(path1);
 
             String[] ss2 = new String[256];
-            String path2 = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\rebra2.txt";
+            String path2 = @"ES\rebra2.txt";
             StreamReader sr2 = new StreamReader(path2);
             ss2 = File.ReadAllLines(path2);
 
@@ -53,11 +53,11 @@ namespace ES
             }
 
             String[] ssStp = new String[256];
-            String pathStp = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\statePos.txt";
+            String pathStp = @"ES\statePos.txt";
             StreamReader srStp = new StreamReader(pathStp);
             ssStp = File.ReadAllLines(pathStp);
             String[] ssStt = new String[256];
-            String pathStt = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\stateText.txt";
+            String pathStt = @"ES\stateText.txt";
             StreamReader srStt = new StreamReader(pathStt);
             ssStt = File.ReadAllLines(pathStt);
 
@@ -68,11 +68,11 @@ namespace ES
             }
 
             String[] ssQp = new String[256];
-            String pathQp = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\questPos.txt";
+            String pathQp = @"ES\questPos.txt";
             StreamReader srQp = new StreamReader(pathQp);
             ssQp = File.ReadAllLines(pathQp);
             String[] ssQt = new String[256];
-            String pathQt = @"C:\Users\deadp\Desktop\Projects\Programms\3 курс - ИЗ\ES\questText.txt";
+            String pathQt = @"ES\questText.txt";
             StreamReader srQt = new StreamReader(pathQt);
             ssQt = File.ReadAllLines(pathQt);
 
